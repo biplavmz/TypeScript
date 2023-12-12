@@ -19,6 +19,7 @@ const Theory = () => {
 
     <h2>For creating the Store create a Folder Name called App under that give the name Store.js</h2>
 
+<h1>File Structure for the Store is Careate   Folder Name app under that define the js File called Store.js</h1>
 
     <h1>Create the Store </h1>
 

@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
-import Theory from './Theory';
+import Theory from './ImpFiels/Theory';
+import LifeCycleMethod from './ImpFiels/LifeCycleMethod';
+import ReactExtra from './ImpFiels/ReactExtra';
 
 function App() {
   return (
@@ -10,7 +12,10 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        
+        <ReactExtra />
         <Theory/>
+        <LifeCycleMethod />
       </header>
     </div>
   );
